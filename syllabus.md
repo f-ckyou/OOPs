@@ -21,7 +21,7 @@ Here’s a comprehensive list of topics and subtopics for learning Object-Orient
 
 ### 4. **Attributes and Methods**
     - Class attributes (shared across all instances)
-- Instance attributes (specific to each instance)
+    - Instance attributes (specific to each instance)
     - Creating methods inside a Class
     - Accessing attributes and methods from objects
     - Modifying object state with methods
